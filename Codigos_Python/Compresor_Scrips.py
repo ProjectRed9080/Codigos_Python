@@ -1,3 +1,4 @@
+# este codigo es un compresor personal, tomado de un video...
 from PIL import Image  # python3 -m pip install Pillow
 
 import os
